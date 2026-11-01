@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Edge AI Agent</string>
+    <string name="accessibility_service_description">Локальне керування Android для Edge AI Agent</string>
+    <string name="accessibility_onboarding_title">Дозвіл Accessibility</string>
+    <string name="restricted_settings_instructions">Android 13–15 може блокувати Accessibility для застосунків, встановлених через APK. Відкрийте «Інформація про додаток», натисніть меню з трьома крапками, виберіть «Дозволити обмежені налаштування», а потім увімкніть Edge AI Agent у налаштуваннях Accessibility. Деякі банківські застосунки можуть вимагати повного вимкнення Accessibility.</string>
+    <string name="accessibility_enable_instructions">Увімкніть Edge AI Agent у налаштуваннях Accessibility. Агент автоматично призупиняє дії на банківських, платіжних, біометричних та інших захищених екранах.</string>
+    <string name="open_app_info">Інформація про додаток</string>
+    <string name="open_accessibility_settings">Accessibility</string>
+    <string name="foreground_service_title">Edge AI Agent активний</string>
+    <string name="foreground_service_idle">Edge AI: Спить (0.0% CPU | Очікування подій)</string>
+    <string name="foreground_service_channel">Фоновий сервіс Edge AI Agent</string>
+    <string name="boot_recovery_notification_title">Edge AI Agent очікує перезапуску</string>
+    <string name="boot_recovery_notification_text">Натисніть, щоб відновити фоновий сервіс після перезавантаження пристрою.</string>
+</resources>
